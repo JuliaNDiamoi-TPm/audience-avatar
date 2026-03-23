@@ -1,0 +1,5 @@
+{
+  "name": "Creative Studio Avatar",
+  "description": "A responsive page featuring a LiveAvatar embed with a professional studio interface.",
+  "requestFramePermissions": ["microphone"]
+}
